@@ -1,0 +1,2 @@
+# CaffeineAutoThemeChangerScript
+自動でCaffeineCSS/FSLinearを昼夜で切り替えるスクリプトです。自動ライト/ダークモード化をこれ一つで実現できます。
