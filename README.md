@@ -2,7 +2,7 @@
 自動でCaffeineCSS/FSLinearを昼夜で切り替えるスクリプトです。自動ライト/ダークモード化をこれ一つで実現できます。  
 [現在テスト中のためβ版です]  
 
-このスクリプトをWebページと同じディレクトリへコピー後、以下の条件を確認してください。  
+このスクリプトとCaffeineCSS,FSLinearをWebページと同じディレクトリへコピー後、以下の条件を確認してください。  
 1.bodyタグ下に  
 ```sample.html
 <script src="./themeac.js"></script>
