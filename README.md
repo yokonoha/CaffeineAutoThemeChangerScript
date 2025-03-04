@@ -4,19 +4,29 @@
 
 このスクリプトをWebページと同じディレクトリへコピー後、以下の条件を確認してください。  
 1.bodyタグ下に  
-```<script src="./themeac.js"></script>```  
+```sample.html
+<script src="./themeac.js"></script>
+```  
 が入力されていること  
 **********************
 2.外部CSSのリンクタグが  
-``` <link href="fslinear.css" rel="stylesheet" id="caffeinetheme"/>```  
+```sample.html
+<link href="fslinear.css" rel="stylesheet" id="caffeinetheme"/>
+```  
 または  
-``` <link href="caffeine.css" rel="stylesheet" id="caffeinetheme"/>```
+``` sample.html
+<link href="caffeine.css" rel="stylesheet" id="caffeinetheme"/>
+```
 となっていること  
 **********************
 3.footerに以下のテキストが存在すること  
-```<p><small>このページでは<a href="https://github.com/yokonoha/FSLinear" id="interchangeablecssprofiles">FSLinear</a>を使用しています。</small></p>```
+```sample.html
+<p><small>このページでは<a href="https://github.com/yokonoha/FSLinear" id="interchangeablecssprofiles">FSLinear</a>を使用しています。</small></p>
+```
 または  
-```<p><small>このページでは<a href="https://github.com/yokonoha/Caffeine_CSS" id="interchangeablecssprofiles">CaffeineCSS</a>を使用しています。</small></p>```  
+```sample.html
+<p><small>このページでは<a href="https://github.com/yokonoha/Caffeine_CSS" id="interchangeablecssprofiles">CaffeineCSS</a>を使用しています。</small></p>
+```  
 
 
 入力できていれば、エラーなく動作します!  
